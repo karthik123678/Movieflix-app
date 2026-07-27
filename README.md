@@ -6,13 +6,14 @@ A modern movie discovery web application built with **React.js** and the **TMDB 
 
 ## 🚀 Live Demo
 
-> 🔗 https://your-live-demo-link.vercel.app
+> 🔗 [https://your-live-demo-link.vercel.app](https://movieflixapp-xi.vercel.app/)
 
 ---
 
 ## 📸 Preview
 
-![MovieFlix Preview](./preview.png)
+![MovieFlix Preview](<img width="1365" height="725" alt="image" src="https://github.com/user-attachments/assets/90f7bf4e-7ab2-4315-9451-5c77dadfe719" />
+)
 
 ---
 
